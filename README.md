@@ -27,3 +27,5 @@ In my free time, I like read, play video-games, watch animes and series and lear
 <div> 
 
   <a href="https://www.linkedin.com/in/danipishinin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/danipishinin" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23ff007f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/danipishinin" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
