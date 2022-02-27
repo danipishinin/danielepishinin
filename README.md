@@ -7,7 +7,6 @@ In my free time, I like read, play video-games, watch animes and series and lear
 <div>
   <a href="https://github.com/danipishinin">
   <div style="display: inline_block">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danipishinin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danipishinin&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
 </div>
