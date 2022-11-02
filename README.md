@@ -1,17 +1,8 @@
 #### Hi! </br>
 
-🇧🇷 [PT-BR]
-
-Meu nome é Daniele, sou Tecnóloga em Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento de software há quase 2 anos. Iniciei minha jornada como desenvolvedora Full Stack e ao longo desses anos optei por me especializar em Front End.
-
-Gosto muito de aprender coisas novas e também ajudar aos outros. Já atuei como monitora de Matemática Discreta, Estrutura de Dados e Estatística Aplicada na época de faculdade e também já ministrei aulas de Algoritmos e Lógica de Programação de forma voluntária em uma comunidade feminina de tecnologia.
-
-🇺🇸 [EN]
-
-My name is Daniele, I’ve a degree in Systems Analysis and Development and I've been working with software development for almost 2 years. I started my journey as a Full Stack developer and over the years I chose to specialize in Front End.
+My name is Daniele, I’ve a degree in Systems Analysis and Development and I've been working with software development for almost 3 years. I started my journey as a Full Stack developer and over the years I chose to specialize in Mobile develop.
 
 I really enjoy learning new things and also helping others. I've worked as a tutor for Discrete Mathematics, Data Structure and Applied Statistics in college and I've also taught Algorithms and Programming Logic classes voluntarily in a women technology community.
-
 
 <div>
   <a href="https://github.com/danipishinin">
