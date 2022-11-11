@@ -15,3 +15,4 @@
 
 I enjoy learning new things and also helping others. I've worked as a tutor for Discrete Mathematics, Data Structure, and Applied Statistics in college and I've also taught Algorithms and Programming Logic classes voluntarily in a women's technology community.
 
+![Snake animation](https://github.com/danipishinin/danipishinin/blob/output/github-contribution-grid-snake.svg)
