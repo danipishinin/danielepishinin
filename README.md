@@ -1,7 +1,7 @@
 # Hi there, 👋</br>
 
 🔭  I'm a mobile developer at a fintech  </br></br>
-🌱  I’m currently learning Flutter, React Native and Android </br></br>
+🌱  I’m currently learning mobile ecossystem and AWS</br></br>
 💬  Ask me about anything related to mobile ecossystem </br></br>
 ⚡  Fun fact: I ❤️ sing </br></br>
 📫  My website: https://danipishinin.dev/
