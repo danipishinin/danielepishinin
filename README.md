@@ -6,5 +6,6 @@
 ⚡  Fun fact: I ❤️ composing music </br></br>
 📫  My website: https://danipishinin.com/
 
-I am a postgraduate student in Software Engineering at USP, and I have been working with software development since 2020. Currently, I am specializing in developing more accessible and secure mobile applications, having worked with Android, Flutter, and React Native. Additionally, I serve as an ambassador at Google Women Techmakers, where I mentor women at Reprograma and assist in organizing community events such as DevOPS Day Campinas 2024. In my free time, I am learning SwiftUI and enjoy other activities like trekking, Krav Maga, going to the gym, reading, and visiting cafés.
+I am a postgraduate student in Software Engineering at USP and have been involved in software development since 2020. Currently, I am focused on creating more accessible and secure applications, with strong expertise in ReactJS, React Native, AWS, Testing Library, Jest, GraphQL, Sentry, and Amplitude. Additionally, I serve as an ambassador for Google Women Techmakers, where I mentor women at Reprograma and help organize community events such as DevOPS Day Campinas 2024.
 
+Outside of coding, I am learning to swim and climb. I also love paint with watercolors, sci-fi books and everything related to nature.
